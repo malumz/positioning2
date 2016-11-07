@@ -1,0 +1,23 @@
+/* Inserta tu CSS aqui */
+.blue {
+	height: 310px;
+	width: 310px;
+	background-color: blue;
+	border:1px solid blue;
+	position: relative;
+}
+.green {
+	height: 190px;
+	width: 190px;
+	background-color: green;
+	margin:59px 60px;
+	position: static;
+}
+.black {
+	height: 60px;
+	width: 60px;
+	background-color: black;
+	position:absolute;
+	left: 0;
+	top: 0;
+}

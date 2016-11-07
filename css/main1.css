@@ -1,0 +1,23 @@
+/* Inserta tu CSS aqui */
+.red{
+	height: 300px;
+	width: 300px;
+	background-color: red;
+	border:1px solid red;
+	position: static;
+
+}
+.purple{
+	height: 200px;
+	width: 200px;
+	background-color: purple;
+	margin:50px 50px;
+	position: relative;
+
+}
+.yellow{
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	position:absolute;
+}
